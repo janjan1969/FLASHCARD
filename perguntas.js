@@ -21,3 +21,32 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Matematica',
+    'Quem foi Baskara?',
+    'Um grande Matemático!!!!'
+)
+criaCartao(
+    'Matematica',
+    'Quem foi Baskara?',
+    'Um grande Matemático!!!!'
+)
+
+criaCartao(
+    'Matematica',
+    'Quem foi Baskara?',
+    'Um grande Matemático!!!!'
+)
+
+criaCartao(
+    'Matematica',
+    'Quem foi Baskara?',
+    'Um grande Matemático!!!!'
+)
+
+criaCartao(
+    'Matematica',
+    'Quem foi Baskara?',
+    'Um grande Matemático!!!!'
+)
