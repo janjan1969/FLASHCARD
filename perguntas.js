@@ -23,9 +23,10 @@ criaCartao(
 )
 
 criaCartao(
-    'Matematica',
-    'Quem foi Baskara?',
-    'Um grande Matemático!!!!'
+    'PROGRAMAÇÃO',
+    'O que é decomposição?',
+    'Decomposição é um termo usado para descrever os processos em que a 
+     matéria orgânica é degradada em partículas menores e em nutrientes.'
 )
 criaCartao(
     'Matematica',
