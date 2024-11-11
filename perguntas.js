@@ -23,10 +23,9 @@ criaCartao(
 )
 
 criaCartao(
-    'PROGRAMAÇÃO',
-    'O que é decomposição?',
-    'Decomposição é um termo usado para descrever os processos em que a 
-     matéria orgânica é degradada em partículas menores e em nutrientes.'
+    'Matematica',
+    'Quem foi Baskara?',
+    'Um grande Matemático!!!!'
 )
 criaCartao(
     'Matematica',
